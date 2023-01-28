@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rico</h1>
-<h3 align="center">noob dev</h3>
+<h3 align="center">ウェブ開発者</h3>
 
 - 🌱 I’m currently learning **web3, frontend dev**
 <p align="left">
