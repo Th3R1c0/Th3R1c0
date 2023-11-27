@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rico</h1>
 <h3 align="center">ウェブ開発者</h3>
-
-- 🌱 I’m currently learning **cloud tecnologies and frontend development**
-- studying at DevelopersInstitute NZ 2023-2024
+engineer at anasi studios.
+studying bachelors of software development, nz.
 <p align="left">
 </p>
 
