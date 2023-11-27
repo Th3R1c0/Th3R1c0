@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rico</h1>
 <h3 align="center">ウェブ開発者</h3>
-engineer at anasi studios.
-studying bachelors of software development, nz.
+<h3>engineer at anasi studios.</h3>
+<h3>studying bachelors of software development, nz.</h3>
 <p align="left">
 </p>
 
