@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rico</h1>
 <h3 align="center">ウェブ開発者</h3>
-<h3>- Engineer at Misty Studios.</h3>
-<h3>- Studying Bachelors Of Software Development, nz.</h3>
+<h3>- Studying Bachelors of Computer Science, in New Zealand.</h3>
 <p align="left">
 </p>
 
