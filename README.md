@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rico</h1>
 <h3 align="center">ウェブ開発者</h3>
-<h3>- Studying Bachelors of Computer Science, in New Zealand.</h3>
+<h3>- Aspiring Fullstack Software engineer from New Zealand</h3>
+<h3>- Currently majoring in Bachelors of Computer Science at Auckland University</h3>
 <p align="left">
 </p>
 
